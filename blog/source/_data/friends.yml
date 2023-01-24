@@ -1,0 +1,9 @@
+- group: # 分组标题
+  description:  # 分组描述
+  items:
+    - title: XunTu手表论坛
+      avatar: https://user-assets.sxlcdn.com/images/1048819/Fpzfh23O7C78s5N3hKNx5VIJ0EgX.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/format/png
+      url: http://xuntu.fun/
+      keywords: 手表破解论坛
+      description: 手表破解论坛
+
